@@ -8,7 +8,7 @@ Laget for bruk som skrivebordswidget via [Plash](https://sindresorhus.com/plash)
 
 ## Skjermbilde
 
-![spotpris-widget skjermbilde](screenshot.png)
+<img src="screenshot.png" width="220" alt="spotpris-widget skjermbilde">
 
 ---
 
