@@ -8,8 +8,10 @@ Laget for bruk som skrivebordswidget via [Plash](https://sindresorhus.com/plash)
 
 ## Skjermbilder
 
+<div style="display: flex;">
 <img src="screenshot.png" height="700" alt="spotpris-widget skjermbilde">
 <img src="screenshot2.png" height="700" style="margin-left:1em;"alt="spotpris-widget skjermbilde 2">
+</div>
 
 ---
 
